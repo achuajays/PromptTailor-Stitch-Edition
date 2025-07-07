@@ -22,8 +22,8 @@ A Streamlit application that helps generate effective prompts for Stitch AI, fol
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd Snichaiprompting
+git clone https://github.com/achuajays/PromptTailor-Stitch-Edition.git
+cd PromptTailor-Stitch-Edition
 ```
 
 2. Install dependencies:
